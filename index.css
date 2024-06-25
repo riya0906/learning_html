@@ -1,0 +1,54 @@
+
+.container{
+    width:100%;
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: space-between; 
+}
+.riya {
+    /* border: 1px solid red;
+     */
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+    cursor: grab;
+
+}
+.riya > h6:hover{
+    color: #ffcb03;
+    
+    }
+    .riya2 > h6:hover{
+        color: #ffcb03;
+        
+        }
+.riya2 {
+    /* border: 1px solid red; */
+    
+    display: flex;
+     width: 30%;
+    justify-content: space-around;
+    align-items: center;
+    cursor: grab;
+
+
+
+}
+.riya >h6{
+    color: white;
+    font-family: "Open Sans",Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+
+
+
+.riya2 >h6 {
+    color: white;
+    font-family: "Open Sans",Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+    
+
